@@ -6,6 +6,7 @@ public class PrintScreen {
 		System.out.println("Printing on screen");
 		FirstObject obj = new FirstObject();
 		obj.display();
+		System.out.println("Printing ended");
 		
 
 	}
